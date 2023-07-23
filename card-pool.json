@@ -1,24 +1,8 @@
 {
-  "all_themes": [
+  "main": [
   {
 
-    "card1": "STSN_V;STSN_D;STSN_R",
-    "card2": "STSN_V;STSN_D;STSN_R",
-    "card3": "STSN_V;STSN_D;STSN_R",
-    "card4": "STSN_V;STSN_D;STSN_R",
-    "card5": "STSN_V;STSN_D;STSN_R",
-    "card6": "STSN_V;STSN_D;STSN_R",
-    "card7": "STSN_V;STSN_D;STSN_R",
-    "card8": "STSN_V;STSN_D;STSN_R",
-    "card9": "STSN_V;STSN_D;STSN_R",
-    "card10": "STSN_V;STSN_D;STSN_R"
-    
-      }
-  ],
-  
-    "le_themes": [
-  {
-"card1": "STBT_V;STBT_D;STBT_R",
+    "card1": "STBT_V;STBT_D;STBT_R",
     "card2": "STBT_V;STBT_D;STBT_R",
     "card3": "STBT_V;STBT_D;STBT_R",
     "card4": "STBT_V;STBT_D;STBT_R",
@@ -28,6 +12,22 @@
     "card8": "STBT_V;STBT_D;STBT_R",
     "card9": "STBT_V;STBT_D;STBT_R",
     "card10": "STBT_V;STBT_D;STBT_R"
+    
+      }
+  ],
+  
+    "le_themes": [
+  {
+"card1": "STSN_V;STSN_D;STSN_R",
+    "card2": "STSN_V;STSN_D;STSN_R",
+    "card3": "STSN_V;STSN_D;STSN_R",
+    "card4": "STSN_V;STSN_D;STSN_R",
+    "card5": "STSN_V;STSN_D;STSN_R",
+    "card6": "STSN_V;STSN_D;STSN_R",
+    "card7": "STSN_V;STSN_D;STSN_R",
+    "card8": "STSN_V;STSN_D;STSN_R",
+    "card9": "STSN_V;STSN_D;STSN_R",
+    "card10": "STSN_V;STSN_D;STSN_R"
           }
   ]
 }
