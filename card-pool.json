@@ -1,0 +1,35 @@
+{
+  "all_themes": [
+  {
+
+    "card1": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card2": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card3": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card4": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card5": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card6": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card7": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card8": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card9": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card10": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "cardgrades": "C;C;C;C;C;C;C;C;C;B;B;B;B;B;B;A;A;A;A;S;S;S;R;R"
+    
+      }
+  ],
+  
+    "le_themes": [
+  {
+    "card1": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card2": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card3": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card4": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card5": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card6": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card7": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card8": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card9": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "card10": "RERE_V;RERE_D;RERE_R;FLTW_V;FLTW_D;FLTW_R",
+    "cardgrades": "C;C;C;C;B;B;B;A;A;S;S;R;R"
+          }
+  ]
+}
