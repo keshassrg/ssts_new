@@ -3,27 +3,27 @@
     {
       
       
-      "TAYLORSWIFT_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_ts.png",
-      "FEARLESS_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_fltv.png",
-      "SPEAKNOW_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_sn.png",
-      "RED_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_rd.png",
-      "TS19_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_1989.png",
-      "REPUTATION_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_rp.png",
-      "LOVER_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_lv.png",
-      "FOLKLORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_fl.png",
-      "EVERMORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_ev.png",
-      "MIDNIGHTS_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_md.png",
+      "TAYLORSWIFT": "https://superstartaylorswift.sirv.com/resources/images/profile/p_ts.png",
+      "FEARLESS": "https://superstartaylorswift.sirv.com/resources/images/profile/p_fltv.png",
+      "SPEAKNOW": "https://superstartaylorswift.sirv.com/resources/images/profile/p_sn.png",
+      "RED": "https://superstartaylorswift.sirv.com/resources/images/profile/p_rd.png",
+      "TS19": "https://superstartaylorswift.sirv.com/resources/images/profile/p_1989.png",
+      "REPUTATION": "https://superstartaylorswift.sirv.com/resources/images/profile/p_rp.png",
+      "LOVER": "https://superstartaylorswift.sirv.com/resources/images/profile/p_lv.png",
+      "FOLKLORE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_fl.png",
+      "EVERMORE": "https://superstartaylorswift.sirv.com/resources/images/profile/p_ev.png",
+      "MIDNIGHTS": "https://superstartaylorswift.sirv.com/resources/images/profile/p_md.png",
       
-            "TAYLORSWIFT_FREE_TEXT": "`Free` Taylor Swift",
-      "FEARLESS_FREE_TEXT": "`Free` Fearless",
-      "SPEAKNOW_FREE_TEXT": "`Free` Speak Now",
-      "RED_FREE_TEXT": "`Free` Red",
-      "NINE_FREE_TEXT": "`Free` 1989",
-      "REPUTATION_FREE_TEXT": "`Free` reputation",
-      "LOVER_FREE_TEXT": "`Free` Lover",
-      "FOLKLORE_FREE_TEXT": "`Free` folklore",
-      "EVERMORE_FREE_TEXT": "`Free` evermore",
-      "MIDNIGHTS_FREE_TEXT": "`Free` Midnights"
+            "TAYLORSWIFT_TEXT": "`Free` Taylor Swift",
+      "FEARLESS_TEXT": "`Free` Fearless",
+      "SPEAKNOW_TEXT": "`Free` Speak Now",
+      "RED_TEXT": "`Free` Red",
+      "TS19_TEXT": "`Free` 1989",
+      "REPUTATION_TEXT": "`Free` reputation",
+      "LOVER_TEXT": "`Free` Lover",
+      "FOLKLORE_TEXT": "`Free` folklore",
+      "EVERMORE_TEXT": "`Free` evermore",
+      "MIDNIGHTS_TEXT": "`Free` Midnights"
       }
       ]
                              }
