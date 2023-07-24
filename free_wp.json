@@ -1,27 +1,28 @@
+
 {
   "wallpapers": [
     {
       
-      "FEARLESS": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_fearless_tv_l.png?format=png",
+      "FEARLESS": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_fearless_tv_l.png?format=png",
       "FEARLESS_TEXT": "`Free` **Fearless (Taylor's Version)** Wallpaper",
       
-      "SPEAK_NOW": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_speak_now_tv_l.png?format=png",
+      "SPEAK_NOW": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_speak_now_tv_l.png?format=png",
       "SPEAK_NOW_TEXT": "`Free` **Speak Now (Taylor's Version)** Wallpaper",
       
-      "RED": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_red_tv_l.png?format=png",
+      "RED": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_red_tv_l.png?format=png",
       "RED_TEXT": "`Free` **Red (Taylor's Version)** Wallpaper",
       
-      "LOVER": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_lover_free_l.png?format=png",
+      "LOVER": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_lover_free_l.png?format=png",
       "LOVER_TEXT": "`Free` **Lover** Wallpaper",
       
-      "FOLKLORE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_folklore_free_l.png?format=png",
+      "FOLKLORE": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_folklore_free_l.png?format=png",
       "FOLKLORE_TEXT": "`Free` **folklore** Wallpaper",
       
-      "EVERMORE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_evermore_free_l.png?format=png",
+      "EVERMORE": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_evermore_free_l.png?format=png",
       "EVERMORE_TEXT": "`Free` **evermore** Wallpaper",
       
-      "MIDNIGHTS": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_midnights_free_l.png?format=png",
+      "MIDNIGHTS": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/mylobby/background/large/mylobby_bg_midnights_free_l.png?format=png",
       "MIDNIGHTS_TEXT": "`Free` **Midnights** Wallpaper"
       }
       ]
-                             }
+}
