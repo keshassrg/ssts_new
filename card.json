@@ -1011,6 +1011,190 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Taylor Swift",
             "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/taylor_swift/11.png?format=png"
         }
+    ],
+
+        "ST19_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/5.png?format=png"
+        }
+    ],
+    "ST19_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/4.png?format=png"
+        }
+    ],
+    "ST19_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/3.png?format=png"
+        }
+    ],
+    "ST19_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/2.png?format=png"
+        }
+    ],
+    
+    "ST19_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/1.png?format=png"
+        }
+    ],
+    "ST19_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/10.png?format=png"
+        }
+    ],
+    "ST19_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/9.png?format=png"
+        }
+    ],
+    "ST19_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/8.png?format=png"
+        }
+    ],
+    "ST19_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/7.png?format=png"
+        }
+    ],
+    "ST19_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/6.png?format=png"
+        }
+    ],
+    "ST19_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/15.png?format=png"
+        }
+    ],
+    "ST19_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/14.png?format=png"
+        }
+    ],
+    "ST19_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/13.png?format=png"
+        }
+    ],
+    "ST19_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/12.png?format=png"
+        }
+    ],
+    "ST19_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Style",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/1989/style/11.png?format=png"
+        }
+    ],
+
+        "LOCS_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/5.png?format=png"
+        }
+    ],
+    "LOCS_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/4.png?format=png"
+        }
+    ],
+    "LOCS_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/3.png?format=png"
+        }
+    ],
+    "LOCS_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/2.png?format=png"
+        }
+    ],
+    
+    "LOCS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/1.png?format=png"
+        }
+    ],
+    "LOCS_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/10.png?format=png"
+        }
+    ],
+    "LOCS_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/9.png?format=png"
+        }
+    ],
+    "LOCS_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/8.png?format=png"
+        }
+    ],
+    "LOCS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/7.png?format=png"
+        }
+    ],
+    "LOCS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/6.png?format=png"
+        }
+    ],
+    "LOCS_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/15.png?format=png"
+        }
+    ],
+    "LOCS_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/14.png?format=png"
+        }
+    ],
+    "LOCS_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/13.png?format=png"
+        }
+    ],
+    "LOCS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/12.png?format=png"
+        }
+    ],
+    "LOCS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Cruel Summer",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/11.png?format=png"
+        }
     ]
     
     
