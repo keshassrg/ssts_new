@@ -1195,6 +1195,190 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Cruel Summer",
             "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/lover/cruel_summer/11.png?format=png"
         }
+    ],
+
+        "EVCL_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/5.png?format=png"
+        }
+    ],
+    "EVCL_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/4.png?format=png"
+        }
+    ],
+    "EVCL_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/3.png?format=png"
+        }
+    ],
+    "EVCL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/2.png?format=png"
+        }
+    ],
+    
+    "EVCL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/1.png?format=png"
+        }
+    ],
+    "EVCL_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/10.png?format=png"
+        }
+    ],
+    "EVCL_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/9.png?format=png"
+        }
+    ],
+    "EVCL_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/8.png?format=png"
+        }
+    ],
+    "EVCL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/7.png?format=png"
+        }
+    ],
+    "EVCL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/6.png?format=png"
+        }
+    ],
+    "EVCL_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/15.png?format=png"
+        }
+    ],
+    "EVCL_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/14.png?format=png"
+        }
+    ],
+    "EVCL_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/13.png?format=png"
+        }
+    ],
+    "EVCL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/12.png?format=png"
+        }
+    ],
+    "EVCL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** cowboy like me",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/cowboy_like_me/11.png?format=png"
+        }
+    ],
+
+        "LOFG_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/5.png?format=png"
+        }
+    ],
+    "LOFG_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/4.png?format=png"
+        }
+    ],
+    "LOFG_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/3.png?format=png"
+        }
+    ],
+    "LOFG_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/2.png?format=png"
+        }
+    ],
+    
+    "LOFG_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/1.png?format=png"
+        }
+    ],
+    "LOFG_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/10.png?format=png"
+        }
+    ],
+    "LOFG_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/9.png?format=png"
+        }
+    ],
+    "LOFG_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/8.png?format=png"
+        }
+    ],
+    "LOFG_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/7.png?format=png"
+        }
+    ],
+    "LOFG_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/6.png?format=png"
+        }
+    ],
+    "LOFG_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/15.png?format=png"
+        }
+    ],
+    "LOFG_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/14.png?format=png"
+        }
+    ],
+    "LOFG_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/13.png?format=png"
+        }
+    ],
+    "LOFG_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/12.png?format=png"
+        }
+    ],
+    "LOFG_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** False God",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/false_god/11.png?format=png"
+        }
     ]
     
     
