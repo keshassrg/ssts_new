@@ -14,7 +14,20 @@
       "STYLE_D": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_style_d.png",
       "STYLE_D_TEXT": "`Limited` **Style** Dance",
       "STYLE_R": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_style_v.png",
-      "STYLE_R_TEXT": "`Limited` **Style** Rhythm"
+      "STYLE_R_TEXT": "`Limited` **Style** Rhythm",
+
+      "FALSE_GOD_V": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_false_god_r.png",
+      "FALSE_GOD_V_TEXT": "`Limited` **False God** Vocal",
+      "FALSE_GOD_D": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_false_god_d.png",
+      "FALSE_GOD_D_TEXT": "`Limited` **False God** Dance",
+      "FALSE_GOD_R": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_false_god_v.png",
+      "FALSE_GOD_R_TEXT": "`Limited` **False God** Rhythm",
+      "COWBOY_LIKE_ME_V": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_cowboy_like_me_r.png",
+      "COWBOY_LIKE_ME_V_TEXT": "`Limited` **cowboy like me** Vocal",
+      "COWBOY_LIKE_ME_D": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_cowboy_like_me_d.png",
+      "COWBOY_LIKE_ME_D_TEXT": "`Limited` **cowboy like me** Dance",
+      "COWBOY_LIKE_ME_R": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_cowboy_like_me_v.png",
+      "COWBOY_LIKE_ME_R_TEXT": "`Limited` **cowboy like me** Rhythm"
 
       
       }
