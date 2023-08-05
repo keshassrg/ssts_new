@@ -1563,6 +1563,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Timeless",
             "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/timeless/11.png?format=png"
         }
+    ],
+
+        "MDAH_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/5.png?format=png"
+        }
+    ],
+    "MDAH_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/4.png?format=png"
+        }
+    ],
+    "MDAH_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/3.png?format=png"
+        }
+    ],
+    "MDAH_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/2.png?format=png"
+        }
+    ],
+    
+    "MDAH_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/1.png?format=png"
+        }
+    ],
+    "MDAH_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/10.png?format=png"
+        }
+    ],
+    "MDAH_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/9.png?format=png"
+        }
+    ],
+    "MDAH_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/8.png?format=png"
+        }
+    ],
+    "MDAH_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/7.png?format=png"
+        }
+    ],
+    "MDAH_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/6.png?format=png"
+        }
+    ],
+    "MDAH_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/15.png?format=png"
+        }
+    ],
+    "MDAH_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/14.png?format=png"
+        }
+    ],
+    "MDAH_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/13.png?format=png"
+        }
+    ],
+    "MDAH_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/12.png?format=png"
+        }
+    ],
+    "MDAH_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/card/bot/anti_hero/11.png?format=png"
+        }
     ]
     
     
