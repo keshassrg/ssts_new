@@ -41,7 +41,14 @@
       "TIMELESS_D": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_timeless_d.png",
       "TIMELESS_D_TEXT": "`Limited` **Timeless** Dance",
       "TIMELESS_R": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_timeless_r.png",
-      "TIMELESS_R_TEXT": "`Limited` **Timeless** Rhythm"
+      "TIMELESS_R_TEXT": "`Limited` **Timeless** Rhythm",
+
+      "WONDERLAND_V": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_wonderland_v.png",
+      "WONDERLAND_V_TEXT": "`Limited` **Wonderland** Vocal",
+      "WONDERLAND_D": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_wonderland_d.png",
+      "WONDERLAND_D_TEXT": "`Limited` **Wonderland** Dance",
+      "WONDERLAND_R": "https://ik.imagekit.io/allthesuperstars/resources/resources/images/profile/limited/p_wonderland_r.png",
+      "WONDERLAND_R_TEXT": "`Limited` **Wonderland** Rhythm"
 
       
       }
